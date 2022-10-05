@@ -7,13 +7,13 @@ This module challenge demonstrates my ability to refactor code with a main focus
 N/A
 
 ## Links 
-- [Repo]()
+- [Repo](https://github.com/marissa-a-darr/marissadarr_module1)
 
-- [URL] ()
+- [URL](https://github.com/marissa-a-darr/marissadarr_module1.git)
 
 ## Screenshot 
 
-![Horieson](./Develop/assets/images/screenshotoffilepage.png)
+![Horieson](./Develop/assets/images/screenshotofpage.png)
 
 ## Built With
 -HTML
@@ -21,4 +21,6 @@ N/A
 
 **Marissa Darr**
 -Phone: 860-671-7813
--Email: mrsaanagmail.com# marissadarr_module1
+-Email: mrsaanagmail.com
+
+# marissadarr_module1
