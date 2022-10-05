@@ -9,7 +9,7 @@ N/A
 ## Links 
 - [Repo](https://github.com/marissa-a-darr/marissadarr_module1)
 
-- [URL](https://github.com/marissa-a-darr/marissadarr_module1.git)
+- [URL](https://marissa-a-darr.github.io/marissadarr_module1/)
 
 ## Screenshot 
 
