@@ -13,7 +13,7 @@ N/A
 
 ## Screenshot 
 
-![Horieson](./Develop/assets/images/screenshotofpage.png)
+![Horieson](assets\images\screenshotofpage.png)
 
 ## Built With
 -HTML
